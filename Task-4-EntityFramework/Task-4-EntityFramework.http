@@ -1,0 +1,6 @@
+@Task_4_EntityFramework_HostAddress = http://localhost:5216
+
+GET {{Task_4_EntityFramework_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
